@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mongoose": "^6.0.11",
+    "nodemon": "^2.0.13"
+  },
+  "name": "nodejs-completion-guide-backend-setup",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
